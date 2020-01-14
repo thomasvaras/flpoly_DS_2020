@@ -1,23 +1,27 @@
-## First Name Last Name
+## Thomas Varas
 
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Data Analytics Capstone 2
 
-- Course 2
+- Intelligent Mobility
 
-- Course 3
+- Introduction to Data Science
 
-- Course 4
+- Reverse Logistics
+
+- Statistical Learning
+
+- Strategic Management
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Music
 
-- Thing 2
+- Games
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
